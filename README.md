@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dyancarlos/old_pr_notifier.svg?branch=master)](https://travis-ci.org/dyancarlos/old_pr_notifier)
+
 # Old PR Notifier
 
 Notify your Slack channel about old Pull Requests that need review as soon as possible. Don't get stuck waiting for someone review your pull request after days.
