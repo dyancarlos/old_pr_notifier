@@ -1,4 +1,5 @@
 language: elixir
+cache: mix
 elixir:
   - '1.7.4'
 env:
