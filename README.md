@@ -25,6 +25,8 @@ SLACK_HOOK=""
 ```
 
 ## Run
+For now just run on console:
+
 `$ iex -S mix`
 
 `iex(1)> Notifier.notify`
