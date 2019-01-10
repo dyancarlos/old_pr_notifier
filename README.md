@@ -24,6 +24,10 @@ Slack API hook url:
 SLACK_HOOK=""
 ```
 
+## Install Dependencies
+
+`> mix deps.get`
+
 ## Run
 For now just run on console:
 
