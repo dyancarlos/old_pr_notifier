@@ -26,7 +26,7 @@ SLACK_HOOK=""
 
 ## Install Dependencies
 
-`> mix deps.get`
+`$ mix deps.get`
 
 ## Run
 For now just run on console:
