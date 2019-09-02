@@ -13,6 +13,6 @@ defmodule Filter do
 
   def reject_specific_labels(response) do
     response
-    |> Enum.reject(fn(pr) -> "WIP" in pr.labels || "on hold" in pr.labels end)
+    |> Enum.reject(fn(pr) -> "WIP" in pr.labels || "on hold" in pr.labels || "Wait for push" in pr.labels end)
   end
 end
